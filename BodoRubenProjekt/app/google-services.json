@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456844761818",
+    "project_id": "bodorubenprojekt",
+    "storage_bucket": "bodorubenprojekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456844761818:android:bdc0411ab07dd4f1a1a3e3",
+        "android_client_info": {
+          "package_name": "com.example.bodorubenproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456844761818-5uhi9snbebrvgver7t2i05lrsp0ln2pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bodorubenproject",
+            "certificate_hash": "56f6ceb1b5f12b9ee0a81a8fac6ef8182ee0bb47"
+          }
+        },
+        {
+          "client_id": "456844761818-houtq82r53ce6cf2pmhbbq24npqo7fen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2786RrZ0PEwIWPDWt1sEgijU_G09aeg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456844761818-houtq82r53ce6cf2pmhbbq24npqo7fen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

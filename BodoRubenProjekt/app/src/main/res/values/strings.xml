@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">BodoRubenProject</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="Regisztráció">Regisztráció</string>
+    <string name="Bejelentkezés">Bejelentkezés</string>
+    <string name="Felhasználónév">Username</string>
+    <string name="e_mail">e-mail</string>
+    <string name="jelszó">jelszó</string>
+    <string name="jelszó_újra">jelszó újra</string>
+    <string name="jelszo_megerositese">Jelszó megerősítése</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="e_mail_cim">E-mail cím</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="regisztraco">Regisztráció</string>
+    <string name="cancel">Mégse</string>
+    <string name="telefonszam">Telefonszám</string>
+    <string name="adress">Postai cím</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="loginasguest">Bejelentkezés vendégként</string>
+    <string name="loginwithgoogle">Bejelentkezés Google fiókkal</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Info</string>
+    <string name="delete">Törlés</string>
+    <string name="product_desc">Termékleírás</string>
+    <String-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </String-array>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Elisabeth</item>
+        <item>Az Őrült Nők Ketrece</item>
+        <item>Valódi hamisítvány</item>
+        <item>Billi x Lili</item>
+        <item>István, a király</item>
+        <item>Táncvarázs</item>
+        <item>Cirkuszhercegnő</item>
+        <item>Aranyoskám</item>
+        <item>A tizenötödik</item>
+        <item>A mosoly országa</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Dráma</item>
+        <item>Dráma</item>
+        <item>Opera</item>
+        <item>Komédia</item>
+        <item>Rockopera</item>
+        <item>Tragédia</item>
+        <item>Dráma</item>
+        <item>Komédia</item>
+        <item>Dráma</item>
+        <item>Tragédia</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4.5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>2000 HUF</item>
+        <item>2200 HUF</item>
+        <item>2500 HUF</item>
+        <item>5000 HUF</item>
+        <item>3000 HUF</item>
+        <item>1800 HUF</item>
+        <item>3500 HUF</item>
+        <item>3300 HUF</item>
+        <item>2600 HUF</item>
+        <item>2800 HUF</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/ic__szinhazjegy_1</item>
+        <item>@drawable/ic_szinhazjegy_2</item>
+        <item>@drawable/ic_szinhazjegy_3</item>
+        <item>@drawable/ic_szinhazjegy_4</item>
+        <item>@drawable/ic_szinhazjegy_5</item>
+        <item>@drawable/ic_szinhazjegy_6</item>
+        <item>@drawable/ic_szinhazjegy_7</item>
+        <item>@drawable/ic_szinhazjegy_8</item>
+        <item>@drawable/ic_szinhazjegy_9</item>
+        <item>@drawable/ic_szinhazjegy_10</item>
+    </array>
+
+</resources>
